@@ -1,0 +1,99 @@
+*{
+    margin: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body{
+    height: 1200px;
+}
+
+
+.logo {
+    max-width:200px;
+    max-height:150px;
+    width: auto;
+    height: auto;
+    padding: 10px;
+}
+
+.topo{
+    background-color: royalblue;
+    display: flex;
+    justify-content: space-around;
+}
+
+.frase{
+    margin-top:70px;
+    color: aliceblue;
+}
+
+nav{
+    padding: 10px;
+    background-color: rgb(22, 68, 204);
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+    color: aliceblue;
+    font-size: 20px; 
+}
+
+.what:hover {
+    text-decoration: underline;
+}
+
+.what {
+    text-decoration: none;
+    color: aliceblue;
+}
+.datas:hover {
+    text-decoration: underline;
+}
+
+.datas {
+    text-decoration: none;
+    color: aliceblue;
+}
+.counter:hover {
+    text-decoration: underline;
+}
+
+.counter {
+    text-decoration: none;
+    color: aliceblue;
+}
+
+h1 {
+    margin-top: 120px;
+    margin-bottom: 100px;
+    margin-left: 340px;
+    font-size: 45px;
+}
+
+p{
+    font-size: 20px;
+    margin-left: 340px;
+    margin-right: 360px;
+}
+
+h2 {
+    margin-top: 60px;
+    margin-bottom: 60px;
+    margin-left: 340px;
+    font-size: 35;
+    color: black;
+}
+
+.alt {
+    font-size: 10px;
+    margin-left: 440px;
+}
+
+.day{
+    max-width:500px;
+    max-height:375px;
+    width: auto;
+    height: auto;
+    margin-left: 400px;
+    margin-top: 30px;
+}
+
